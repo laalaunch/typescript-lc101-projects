@@ -30,6 +30,7 @@ class Spacecraft {
         let hours: number = milesAway / this.speedMph;
         return hours / 24;
     }
+
 }
 
 // Create an instance of the class here:
